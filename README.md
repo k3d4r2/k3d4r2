@@ -1,4 +1,5 @@
 ### Hi there 👋
+![ ](https://github.com/k3d4R2/k3d4R2/blob/main/Assets/readme-natsume.gif)
 
 
 - 🔭 I’m currently working on - Nothing atm
