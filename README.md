@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![ ](https://github.com/k3d4R2/k3d4R2/blob/main/Assets/natsume-yuujinchou.gif)
-
 - 🔭 I’m currently working on - Nothing atm
 - 🌱 I’m currently learning - C, C++ , Python, JS
 - 🤔 I’m looking for help with Web dev
