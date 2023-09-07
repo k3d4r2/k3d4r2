@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+<!---
 - 🔭 I’m currently working on - Nothing atm
 - 🌱 I’m currently learning - C, C++ , Python, JS
 - 🤔 I’m looking for help with Web dev
-
+--->
 ![ ](https://github.com/k3d4R2/k3d4R2/blob/main/Assets/natsume-yuujinchou-natsumes-bookof-friends.gif)
 ![](https://tenor.com/view/karen-nisemonogatari-goodbye-waving-farewell-gif-22222962)
 <!---- 💬 Ask me about ...
